@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Log file
+/logs
+
+# Package Files #
+*.war
+*.ear
+
+# IDEA Fils #
+/.idea
+*.iml
+/build
+/bin/
+/.git
+/.gradle
+/.classpath
+/.project
+/.settings/
+/out
+/src/main/java/META-INF/
+
+# Mac Fils #
+/.DS_Store
